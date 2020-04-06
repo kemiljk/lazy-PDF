@@ -1,7 +1,7 @@
-# lazy-PDF
+# Lazy PDF
 A free interfaceless macOS utility that allows you to effortlessly create a PDF from a set of selected images. 
 
-## Download and play to your heart's content.
+**Download and play to your heart's content.**
 
 Lazy PDF is a little free macOS utility that allows you to effortlessly create a PDF from a set of selected images. It's interfaceless and relies only on a Finder selection UI. 
 
